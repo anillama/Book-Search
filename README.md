@@ -10,4 +10,5 @@ Main Task of this Project
 -> Using Goodreads book API to get reviews on a book <br/>
 -> Built API so other can request reviews on a book by our users from our database just like how we've used Goodreads book API.<br/>
 
-https://user-images.githubusercontent.com/33677877/101238433-0bbe9b00-3695-11eb-936b-ea6d293d93de.png
+https://user-images.githubusercontent.com/33677877/101238433-0bbe9b00-3695-11eb-936b-ea6d293d93de.png <br/>
+https://user-images.githubusercontent.com/33677877/101238516-aae39280-3695-11eb-8174-065aafac811b.png <br/>
